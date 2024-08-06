@@ -133,3 +133,5 @@ dist
 backend/env/
 backend/__pycache__/
 
+.venv/
+.vscode/
